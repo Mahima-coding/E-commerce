@@ -2,18 +2,16 @@
 A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript.
 # Screenshots:
 
-![w1](https://github.com/user-attachments/assets/0df2592f-3757-4303-995e-aba22246e46e)
+![w1](https://github.com/user-attachments/assets/dce3beb8-cb30-495a-bf4a-c007544276fb)
 
-![Screenshot (103)](https://github.com/user-attachments/assets/47468098-71ea-4068-a196-ab51a9b8ccd5)
+![w2](https://github.com/user-attachments/assets/9a6d0a1b-1482-4248-bfc2-e9405cf49c99)
 
-![Screenshot (104)](https://github.com/user-attachments/assets/1d412e6f-f835-4692-bcd8-5ff5a680fb37)
+![w3](https://github.com/user-attachments/assets/5491b6bb-721b-478d-9cd0-c90214726cd2)
 
-![Screenshot (105)](https://github.com/user-attachments/assets/1261c1b5-c6b0-4169-964e-fb6844684c75)
+![w4](https://github.com/user-attachments/assets/a84c311f-d763-4d1e-94ce-91e4939b7b89)
 
-![Screenshot (106)](https://github.com/user-attachments/assets/adae5a22-4681-4447-8401-8a6f1dfe4800)
+![w5](https://github.com/user-attachments/assets/b376af2a-decf-4df6-a723-b18a9f18f0ff)
 
-![Screenshot (107)](https://github.com/user-attachments/assets/938817cc-08a2-42d8-b479-287441018d3f)
+![w6](https://github.com/user-attachments/assets/fa35f782-4824-4aa7-8822-cc804dd8b2d2)
 
-![Screenshot (108)](https://github.com/user-attachments/assets/94aac553-25ca-474c-a3c4-7b105cfff4c1)
-
-![Screenshot (109)](https://github.com/user-attachments/assets/ddb41df3-8f6f-47b7-8a1e-9526c9b6629a)
+![w7](https://github.com/user-attachments/assets/a800360b-79e5-4e0e-9409-9fd8e34aea03)
